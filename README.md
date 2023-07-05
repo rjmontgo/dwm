@@ -1,4 +1,6 @@
-# Luke's build of dwm
+# Rob's build of dwm
+
+My build of dwm which is based off of luke smith's dwm [build](https://github.com/LukeSmithxyz/dwm)
 
 ## FAQ
 
